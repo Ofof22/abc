@@ -1,0 +1,24 @@
+{
+  "name": "selfbot-ultra-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "install": "npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.10",
+    "discord.js-selfbot-v13": "^2.14.10",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "node-windows": "^1.0.0-beta.8",
+    "path": "^0.12.7",
+    "util": "^0.12.5",
+    "winston": "^3.10.0"
+  }
+}
